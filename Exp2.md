@@ -1,10 +1,10 @@
-# Project Title
+# Experiment 2
 
-A brief description of your project or script.
+We will be walking thourgh basic linux terminal commands
 
 ---
 
-## Prerequisites
+## Command "mkdir
 
 List any prerequisites or dependencies needed to run the scripts.
 
@@ -19,9 +19,9 @@ Explain how to use the scripts, with examples.
 ## Bash Script Snippets
 
 ### Script 1: Description of script 1
-
+![Image](./images/exp1.png)
 ```bash
 #!/bin/bash
-# This is a sample bash script snippet
+mkdir data
 
 echo "Hello, World!"
