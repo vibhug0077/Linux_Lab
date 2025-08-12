@@ -4,7 +4,7 @@ We will be walking thourgh basic linux terminal commands
 
 ---
 
-## Command "mkdir
+## Command "mkdir"dfvd
 
 List any prerequisites or dependencies needed to run the scripts.
 
