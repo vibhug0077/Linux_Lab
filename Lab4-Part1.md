@@ -1,5 +1,4 @@
-Alright — I’ll prepare a **structured, detailed command reference** for your theory and lab topics.
-We’ll go module-by-module, with **syntax, options, and examples** so it works as a complete Linux file operations guide.
+# Advanced File Linux Commands
 
 ---
 
@@ -266,6 +265,3 @@ ln -s /path/to/original symlinkname
 
 ---
 
-If you want, I can prepare this as a **ready-to-use PDF lab manual** with **examples, diagrams, and step-by-step screenshots** so it’s classroom-ready. That way, it can be printed or uploaded to your LMS.
-
-Do you want me to make that PDF version next?
