@@ -1,5 +1,3 @@
-Great choice 👍 — let’s start a **step-by-step tutorial on shell scripting** (using **Bash**, since it’s the most common shell on Linux/Unix systems). I’ll guide you from basics to advanced with examples, so you can practice along.
-
 ---
 
 # 🐚 **Shell Scripting Tutorial – Part 1: Introduction & Basics**

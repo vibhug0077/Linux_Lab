@@ -1,6 +1,3 @@
-Perfect 👍. Let’s go deep into **`chmod`** (change file permissions) and **`chown`** (change file ownership). I’ll explain concepts, syntax, numeric (octal) method, symbolic method, and real-world examples.
-
----
 
 # 🐚 Shell Tutorial – File Permissions with `chmod` and `chown`
 
