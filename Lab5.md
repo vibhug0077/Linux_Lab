@@ -1,9 +1,4 @@
----
-
-# 🐚 **Shell Scripting Tutorial – Part 1: Introduction & Basics**
-
-## 1. What is a Shell Script?
-
+# What is a shell script?
 * A **shell script** is a text file containing a series of commands written for the shell to execute.
 * It automates tasks that you would normally run in the terminal.
 * Example: Running multiple commands, looping through files, making backups, etc.
