@@ -23,13 +23,13 @@ It is designed to help students gain hands-on experience with Linux commands, sh
 Below is an example layout—please adjust or fill in with actual script names and folder names from your repo.
 
 ### Unit –1: Linux Basics
-- [Lab3 – Basic Commands](./Unit-1/Lab3-Basic_Commands.md)  
-- [Lab3 – Sudo Admin](./Unit-1/Lab3-Sudo_Admin.md)  
-- [Lab3 – User & Group Access](./Unit-1/Lab3-User_Group_Access.md)  
-- [Lab4 – Linux File Management](./Unit-1/Lab4-Linux_File.md)  
-- [Lab5 – chmod & chown](./Unit-1/Lab5_CHMOD_CHOWN.md)  
-- [Lab5 – Practice](./Unit-1/Lab5_Practice.md)  
-- [Lab6 – Shell Scripting Basics](./Unit-1/Lab6_Shell_Scripting_Basics.md)  
+- [Lab3 – Basic Commands](./Unit%20-1/Lab3-Basic_Commands.md)  
+- [Lab3 – Sudo Admin](./Unit%20-1/Lab3-Sudo_Admin.md)  
+- [Lab3 – User & Group Access](./Unit%20-1/Lab3-User_Group_Access.md)  
+- [Lab4 – Linux File Management](./Unit%20-1/Lab4-Linux_File.md)  
+- [Lab5 – chmod & chown](./Unit%20-1/Lab5_CHMOD_CHOWN.md)  
+- [Lab5 – Practice](./Unit%20-1/Lab5_Practice.md)  
+- [Lab6 – Shell Scripting Basics](./Unit%20-1/Lab6_Shell_Scripting_Basics.md)  
 
   Introductory notes and resources for the Linux basics unit.
 
