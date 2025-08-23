@@ -23,7 +23,15 @@ It is designed to help students gain hands-on experience with Linux commands, sh
 Below is an example layout—please adjust or fill in with actual script names and folder names from your repo.
 
 ### Unit –1: Linux Basics
-- [Unit –1 – Linux Basics](https://github.com/vibhug0077/Linux_Lab/tree/main/Unit%20-1)  
+- - [Lab3 – Basic Commands](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/Lab3-Basic_Commands.md)  
+- [Lab3 – Sudo Admin](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/Lab3-Sudo_Admin.md)  
+- [Lab3 – User & Group Access](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/Lab3-User_Group_Access.md)  
+- [Lab4 – Linux File Management](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/Lab4-Linux_File.md)  
+- [Lab5 – chmod & chown](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/Lab5_CHMOD_CHOWN.md)  
+- [Lab5 – Practice](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/Lab5_Practice.md)  
+- [Lab6 – Shell Scripting Basics](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/Lab6_Shell_Scripting_Basics.md)  
+- [Lab6](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/Lab6.md)  
+- [Unit-1 README](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/README.md)  
   Introductory notes and resources for the Linux basics unit.
 
 ### Lab Scripts
