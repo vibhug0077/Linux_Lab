@@ -30,7 +30,6 @@ Below is an example layout—please adjust or fill in with actual script names a
 - [Lab5 – chmod & chown](./Unit-1/Lab5_CHMOD_CHOWN.md)  
 - [Lab5 – Practice](./Unit-1/Lab5_Practice.md)  
 - [Lab6 – Shell Scripting Basics](./Unit-1/Lab6_Shell_Scripting_Basics.md)  
-- [Lab6](./Unit-1/Lab6.md)  
 
   Introductory notes and resources for the Linux basics unit.
 
