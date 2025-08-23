@@ -23,22 +23,34 @@ It is designed to help students gain hands-on experience with Linux commands, sh
 Below is an example layout—please adjust or fill in with actual script names and folder names from your repo.
 
 ### Unit –1: Linux Basics
-- - [Lab3 – Basic Commands](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/Lab3-Basic_Commands.md)  
-- [Lab3 – Sudo Admin](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/Lab3-Sudo_Admin.md)  
-- [Lab3 – User & Group Access](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/Lab3-User_Group_Access.md)  
-- [Lab4 – Linux File Management](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/Lab4-Linux_File.md)  
-- [Lab5 – chmod & chown](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/Lab5_CHMOD_CHOWN.md)  
-- [Lab5 – Practice](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/Lab5_Practice.md)  
-- [Lab6 – Shell Scripting Basics](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/Lab6_Shell_Scripting_Basics.md)  
-- [Lab6](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/Lab6.md)  
-- [Unit-1 README](https://github.com/vibhug0077/Linux_Lab/blob/main/Unit-1/README.md)  
+- [Lab3 – Basic Commands](./Unit-1/Lab3-Basic_Commands.md)  
+- [Lab3 – Sudo Admin](./Unit-1/Lab3-Sudo_Admin.md)  
+- [Lab3 – User & Group Access](./Unit-1/Lab3-User_Group_Access.md)  
+- [Lab4 – Linux File Management](./Unit-1/Lab4-Linux_File.md)  
+- [Lab5 – chmod & chown](./Unit-1/Lab5_CHMOD_CHOWN.md)  
+- [Lab5 – Practice](./Unit-1/Lab5_Practice.md)  
+- [Lab6 – Shell Scripting Basics](./Unit-1/Lab6_Shell_Scripting_Basics.md)  
+- [Lab6](./Unit-1/Lab6.md)  
+
   Introductory notes and resources for the Linux basics unit.
 
 ### Lab Scripts
 Inside **Scripts/**, you might have topics like:
 
-- [Topic A Script](https://github.com/vibhug0077/Linux_Lab/tree/main/Scripts/<script-folder-or-file-name-here>) – Description of this script’s task.
-- [Topic B Script](https://github.com/vibhug0077/Linux_Lab/tree/main/Scripts/<script-folder-or-file-name-here>) – Description of this script’s task.
+- [array_access.sh](.//Scripts/array_access.sh) – Accessing array elements  
+- [array_in_shell.sh](./Scripts/array_in_shell.sh) – Defining arrays in shell  
+- [array_length.sh](./Scripts/array_length.sh) – Finding array length  
+- [array_loop.sh](./Scripts/array_loop.sh) – Iterating over array elements  
+- [first.sh](./Scripts/first.sh) – First basic shell script  
+- [nested_loop_array.sh](./Scripts/nested_loop_array.sh) – Nested loops with arrays  
+- [print_c_style_loop.sh](./Scripts/print_c_style_loop.sh) – Printing numbers using C-style loops  
+- [print_numbers.sh](./Scripts/print_numbers.sh) – Print sequence of numbers  
+- [print_with_range.sh](./Scripts/print_with_range.sh) – Print numbers in a given range  
+- [read_user_input.sh](./Scripts/read_user_input.sh) – Reading user input  
+- [read_user_input_to_stop.sh](./Scripts/read_user_input_to_stop.sh) – Stop execution on user input  
+- [while_loop.sh](./Scripts/while_loop.sh) – Demonstration of while loop  
+
+---
 
 *( Continue listing all script files or subfolders here with meaningful labels. )*
 
