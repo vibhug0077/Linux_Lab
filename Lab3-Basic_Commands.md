@@ -1,6 +1,4 @@
-Here's a **detailed tutorial on basic terminal commands** that work on **Linux, macOS, and Git Bash (Windows)**. These commands are essential for navigating and managing files from the terminal, especially for coding and version control (e.g., Git, VS Code, etc.).
-
----
+# Linux Basic Commands
 
 ## ✅ 1. **Navigation Commands**
 

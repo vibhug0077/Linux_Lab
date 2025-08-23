@@ -1,5 +1,4 @@
-
-# 🐚 Shell Tutorial – File Permissions with `chmod` and `chown`
+# File Permissions with `chmod` and `chown`
 
 ---
 

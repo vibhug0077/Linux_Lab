@@ -1,4 +1,4 @@
-# 🐚 Shell Scripting Basxcvxcvxcics Tutorial2
+# 🐚 Shell Scripting Tutorial!!
 
 Shell scripting allows you to **automate tasks** in Linux/Unix by writing commands inside a file that the shell executes line by line.
 

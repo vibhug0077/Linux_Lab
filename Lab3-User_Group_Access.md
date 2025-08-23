@@ -1,6 +1,4 @@
-In **Linux**, **users** and **groups** are central concepts for managing access to files and system resources. Here’s a breakdown of the **types of users** and **groups** you can create, as well as their basic roles.
-
----
+# **Linux**, **users** and **groups** access management commands
 
 ## ✅ **1. Users in Linux**
 

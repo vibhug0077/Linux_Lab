@@ -1,6 +1,4 @@
-# Advanced File Linux Commands
-
----
+# Advanced Linux File Commands
 
 ## **1. File Manipulation Commands**
 
