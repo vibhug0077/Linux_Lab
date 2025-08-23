@@ -23,7 +23,7 @@ It is designed to help students gain hands-on experience with Linux commands, sh
 Below is an example layout—please adjust or fill in with actual script names and folder names from your repo.
 
 ### Unit –1: Linux Basics
-- [Unit –1 – Linux Basics](https://github.com/vibhug0077/Linux_Lab/tree/main/Unit%20–1%20–%20Linux%20Basics)  
+- [Unit –1 – Linux Basics](https://github.com/vibhug0077/Linux_Lab/tree/main/Unit-1)  
   Introductory notes and resources for the Linux basics unit.
 
 ### Lab Scripts
