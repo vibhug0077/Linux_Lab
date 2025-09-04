@@ -32,6 +32,12 @@ fi
 
 cd "$BASE_DIR"
 
+
+# Step 1: Install required packages
+sudo apt-get update
+#sudo apt-get install -y python3 python3-venv python3-pip
+
+
 # === Step 2: Create virtual environment ===
 if [ ! -d "$VENV_DIR" ]; then
   echo "➡️ Creating hidden virtual environment..."
