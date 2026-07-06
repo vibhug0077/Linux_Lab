@@ -318,6 +318,6 @@ GitHub: [vibhug0077](https://github.com/vibhug0077)
 ---
 
 ## License
-
+© Vibhu Gautam, Professor of Practice, UPES
 This repository is intended for academic and lab practice purposes.  
-Add a license file if you want to make the repository formally open source.
+Add a license file if you want to make the repository formally open source. 
